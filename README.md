@@ -1,10 +1,10 @@
 # welcome bot: A Probot App
 
-DESCRIPTION PLACEHOLDER
+- This is a Probot App Project
 
 ## What it does
 
-FEATURES PLACEHOLDER
+- Its an App that guides New Users.
 
 ## Getting started
 
